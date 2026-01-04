@@ -1,8 +1,8 @@
 flask
-flask-cors
-spacy
-scikit-learn
-PyPDF2
-python-docx
 gunicorn
 docx2txt
+PyPDF2
+scikit-learn
+pandas
+
+
